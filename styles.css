@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+.html-icon {
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+
+i {
+    font-size: 30px;
+}
+
+
+.post-img img {
+    width: 100%;
+}
+
+.post-title {
+    margin-bottom: 8px;
+}
+
+.position-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bookmark {
+    margin-right: 9px;
+}
+
+.post-img {
+    width: 98%;
+}
+
+.three-dots {
+    margin-right: 9px;
+}
